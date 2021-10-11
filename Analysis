@@ -1,0 +1,6 @@
+We are researching data on the male drugs "Ramicane" and "Naftisol",  and the female drug "Propriva." (other drugs as well) In this combined dataset, we want to see the trends for the tumor volume in each regimen.
+We want to find the mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen.
+The total number of mice tested surpasses 25 for each drug except for two. 
+A mostly even ratio of gender was used in the testing with two more males than female mice.
+Out of the mice treated for tumors, it seems the trend was higher tumor levels with mice tested with infubinol and ceftamin.
+According to my chart, the rate of tumors went downwards over time.
